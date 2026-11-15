@@ -9,7 +9,7 @@
     "build:dev": "vite build --mode development",
     "lint": "eslint .",
     "preview": "vite preview",
-    "test:editor": "node scripts/test-editor.cjs"
+    "test:editor": "node scripts/test-editor.cjs && node scripts/test-publication.cjs"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.9.0",

@@ -10,8 +10,8 @@ global.fetch=async(url,opts)=>{calls.push({url,opts});let json={};if(url.endsWit
 const client=new GitHub('test-token');const saved=await client.save(snap,content,new Map());assert.equal(saved.tree,'newtree');assert.equal(saved.sha,'newcommit');assert.equal(calls.filter(x=>x.opts.method==='PATCH').length,1);assert.equal(JSON.parse(calls.at(-1).opts.body).force,false);
 global.fetch=async()=>({ok:true,json:async()=>({object:{sha:'someone-else'}})});await assert.rejects(()=>client.save(snap,content,new Map()),/другим редактором/);
 global.fetch=async()=>({ok:false,status:401});await assert.rejects(()=>client.load(),/истёк/);
-global.fetch=async()=>({ok:false,status:403});await assert.rejects(()=>client.load(),/лимит/);
-global.fetch=async()=>{throw Error('offline')};await assert.rejects(()=>client.load(),/offline/);
+global.fetch=async()=>({ok:false,status:403});await assert.rejects(()=>client.load(),/Доступ ограничен/);
+global.fetch=async()=>{throw Error('offline')};await assert.rejects(()=>client.load(),/Проверьте интернет/);
 client.clear();await assert.rejects(()=>client.load(),/Войдите/);
 console.log('PASS: atomic commit, conflict, invalid token, permissions, network, logout');
 })().catch(e=>{console.error(e);process.exitCode=1});

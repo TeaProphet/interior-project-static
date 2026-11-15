@@ -22,9 +22,9 @@ export class GitHub {
     async request(path: string, method = 'GET', body?: unknown) {
         if (!this.token)
             throw Error('Войдите снова');
-        const r = await fetch(`https://api.github.com/repos/${REPO}/${path}`, { method, headers: { Authorization: `Bearer ${this.token}`, Accept: 'application/vnd.github+json', 'Content-Type': 'application/json' }, body: body === undefined ? undefined : JSON.stringify(body) });
+        const r = await fetch(`https://api.github.com/repos/${REPO}/${path}`, { method, headers: { Authorization: `Bearer ${this.token}`, Accept: 'application/vnd.github+json', 'Content-Type': 'application/json' }, body: body === undefined ? undefined : JSON.stringify(body) }).catch(() => { throw Error('Не удалось связаться с сервисом. Проверьте интернет и попробуйте снова.'); });
         if (!r.ok)
-            throw Error(r.status === 401 ? 'Токен недействителен или истёк' : r.status === 403 ? 'Нет прав или превышен лимит API' : r.status === 409 || r.status === 422 ? 'Конфликт: перезагрузите данные, сохранив свои правки' : 'GitHub: ошибка ' + r.status);
+            throw Error(r.status === 401 ? 'Ключ доступа недействителен или истёк. Получите новый ключ у администратора сайта.' : r.status === 403 ? 'Доступ ограничен. Попробуйте позже; если ошибка повторится, обратитесь к администратору сайта.' : r.status === 409 || r.status === 422 ? 'Не удалось сохранить изменения. Скачайте копию изменений, затем загрузите сохранённые данные и повторите правки.' : 'Не удалось выполнить действие. Попробуйте позже или обратитесь к администратору сайта.');
         return r.json();
     }
     async load() {
@@ -57,7 +57,7 @@ export class GitHub {
                 throw Error('Проверьте название и порядок категорий');
         const current = await this.request('git/ref/heads/main');
         if (current.object.sha !== snapshot.head)
-            throw Error('Контент изменён другим редактором. Скачайте свои правки и перезагрузите данные.');
+            throw Error('Данные изменены другим редактором. Скачайте копию изменений, затем загрузите сохранённые данные и повторите свои правки.');
         const entries: {
             path: string;
             mode: string;
