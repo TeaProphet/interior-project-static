@@ -1,0 +1,245 @@
+{
+  "id": "z90umoenzhfxwinczcf4ilya",
+  "documentId": "z90umoenzhfxwinczcf4ilya",
+  "title": "Мебель для кухни",
+  "description": "Мебель для дома играет важную роль в создании комфортного и функционального пространства. Она не только отражает стиль и индивидуальность жильцов, но и обеспечивает уют и удобство в повседневной жизни. От диванов и кроватей до шкафов и столов — каждый предмет служит своей уникальной цели. Современные тенденции часто сочетают в себе экологичность и эргономичность, предлагая решения из натуральных материалов с продуманной конструкцией. Правильно подобранная мебель помогает создать гармоничную атмосферу, где приятно отдыхать и работать.",
+  "order": 3,
+  "photos": [
+    {
+      "id": 33,
+      "name": "спортивная набережная.jpg",
+      "url": "/media/sportivnaya_naberezhnaya_b9b49dcc80.jpg"
+    },
+    {
+      "id": 34,
+      "name": "юхман.jpg",
+      "url": "/media/yuhman_99b4d97b74.jpg"
+    },
+    {
+      "id": 35,
+      "name": "яшин таунхаус.jpg",
+      "url": "/media/yashin_taunhaus_583bb5efc9.jpg"
+    },
+    {
+      "id": 36,
+      "name": "20 лет Октября.jpg",
+      "url": "/media/20_let_Oktyabrya_236f99eb47.jpg"
+    },
+    {
+      "id": 37,
+      "name": "юхман.jpeg",
+      "url": "/media/yuhman_f0b732e059.jpeg"
+    },
+    {
+      "id": 38,
+      "name": "20 лет Октября1.jpg",
+      "url": "/media/20_let_Oktyabrya1_3804d18185.jpg"
+    },
+    {
+      "id": 39,
+      "name": "1726133053197.jpg",
+      "url": "/media/1726133053197_e2620c521c.jpg"
+    },
+    {
+      "id": 40,
+      "name": "Image 6.jpg",
+      "url": "/media/Image_6_38ace510d2.jpg"
+    },
+    {
+      "id": 41,
+      "name": "IMG_2641.jpg",
+      "url": "/media/IMG_2641_830bc3923d.jpg"
+    },
+    {
+      "id": 42,
+      "name": "WhatsApp Image 2025-07-09 at 18.28.27 (1).jpeg",
+      "url": "/media/Whats_App_Image_2025_07_09_at_18_28_27_1_f59f06251a.jpeg"
+    },
+    {
+      "id": 43,
+      "name": "IMG_2643.jpg",
+      "url": "/media/IMG_2643_84637fff70.jpg"
+    },
+    {
+      "id": 44,
+      "name": "IMG_2638.jpg",
+      "url": "/media/IMG_2638_826ee2c70b.jpg"
+    },
+    {
+      "id": 45,
+      "name": "WhatsApp Image 2025-07-09 at 18.28.27 (2).jpeg",
+      "url": "/media/Whats_App_Image_2025_07_09_at_18_28_27_2_e8571298cf.jpeg"
+    },
+    {
+      "id": 46,
+      "name": "WhatsApp Image 2025-07-09 at 18.34.07.jpeg",
+      "url": "/media/Whats_App_Image_2025_07_09_at_18_34_07_1bec49427d.jpeg"
+    },
+    {
+      "id": 47,
+      "name": "WhatsApp Image 2025-07-09 at 18.28.27 (3).jpeg",
+      "url": "/media/Whats_App_Image_2025_07_09_at_18_28_27_3_55c3cef629.jpeg"
+    },
+    {
+      "id": 48,
+      "name": "WhatsApp Image 2025-07-10 at 10.03.39.jpeg",
+      "url": "/media/Whats_App_Image_2025_07_10_at_10_03_39_31e4c221e2.jpeg"
+    },
+    {
+      "id": 49,
+      "name": "WhatsApp Image 2025-07-09 at 18.28.27.jpeg",
+      "url": "/media/Whats_App_Image_2025_07_09_at_18_28_27_e5bba34522.jpeg"
+    },
+    {
+      "id": 50,
+      "name": "WhatsApp Image 2025-07-09 at 18.43.00.jpeg",
+      "url": "/media/Whats_App_Image_2025_07_09_at_18_43_00_a30696d61a.jpeg"
+    },
+    {
+      "id": 51,
+      "name": "WhatsApp Image 2025-07-09 at 18.28.27 (4).jpeg",
+      "url": "/media/Whats_App_Image_2025_07_09_at_18_28_27_4_8d7371f84f.jpeg"
+    },
+    {
+      "id": 52,
+      "name": "Беридзе.jpg",
+      "url": "/media/Beridze_920e34a9ef.jpg"
+    },
+    {
+      "id": 53,
+      "name": "воронеж.jpg",
+      "url": "/media/voronezh_7ab23a09ff.jpg"
+    },
+    {
+      "id": 54,
+      "name": "Ватневская.jpeg",
+      "url": "/media/Vatnevskaya_954a691a6c.jpeg"
+    },
+    {
+      "id": 55,
+      "name": "Гридяев.jpg",
+      "url": "/media/Gridyaev_6874d1a632.jpg"
+    },
+    {
+      "id": 56,
+      "name": "апарты.jpeg",
+      "url": "/media/aparty_810914ab57.jpeg"
+    },
+    {
+      "id": 57,
+      "name": "Ватневская1.jpeg",
+      "url": "/media/Vatnevskaya1_559905e093.jpeg"
+    },
+    {
+      "id": 58,
+      "name": "ЖК Делюкс.jpg",
+      "url": "/media/Zh_K_Delyuks_242d2bd0fd.jpg"
+    },
+    {
+      "id": 59,
+      "name": "дом философа.jpeg",
+      "url": "/media/dom_filosofa_01343ea9ed.jpeg"
+    },
+    {
+      "id": 60,
+      "name": "кирющева.jpeg",
+      "url": "/media/kiryushheva_98371b4648.jpeg"
+    },
+    {
+      "id": 61,
+      "name": "дом философа1.jpeg",
+      "url": "/media/dom_filosofa1_fe80448f9f.jpeg"
+    },
+    {
+      "id": 62,
+      "name": "дом философа2.jpeg",
+      "url": "/media/dom_filosofa2_8c83632cc5.jpeg"
+    },
+    {
+      "id": 63,
+      "name": "женя бмв.jpeg",
+      "url": "/media/zhenya_bmv_55bd60b11c.jpeg"
+    },
+    {
+      "id": 64,
+      "name": "Лепендина.jpg",
+      "url": "/media/Lependina_4baa0bce51.jpg"
+    },
+    {
+      "id": 65,
+      "name": "кирющева1.jpeg",
+      "url": "/media/kiryushheva1_a0f51317f5.jpeg"
+    },
+    {
+      "id": 66,
+      "name": "кирющева2.jpeg",
+      "url": "/media/kiryushheva2_a2451ca36e.jpeg"
+    },
+    {
+      "id": 67,
+      "name": "лепендина.jpeg",
+      "url": "/media/lependina_927988251a.jpeg"
+    },
+    {
+      "id": 68,
+      "name": "лепендина2.jpeg",
+      "url": "/media/lependina2_403d00673c.jpeg"
+    },
+    {
+      "id": 69,
+      "name": "Лесково.jpg",
+      "url": "/media/Leskovo_119911dbd2.jpg"
+    },
+    {
+      "id": 70,
+      "name": "Оберон.jpg",
+      "url": "/media/Oberon_22773bfb88.jpg"
+    },
+    {
+      "id": 71,
+      "name": "массалитинова.jpeg",
+      "url": "/media/massalitinova_70d1aafe3c.jpeg"
+    },
+    {
+      "id": 72,
+      "name": "п.jpeg",
+      "url": "/media/p_92f2a6fcee.jpeg"
+    },
+    {
+      "id": 73,
+      "name": "пак1.jpeg",
+      "url": "/media/pak1_7fefb893bb.jpeg"
+    },
+    {
+      "id": 74,
+      "name": "пак.jpeg",
+      "url": "/media/pak_d6654ad154.jpeg"
+    },
+    {
+      "id": 75,
+      "name": "пешкова.jpeg",
+      "url": "/media/peshkova_8845c35f4f.jpeg"
+    },
+    {
+      "id": 76,
+      "name": "риальто.jpg",
+      "url": "/media/rialto_a96b2ccf35.jpg"
+    },
+    {
+      "id": 77,
+      "name": "Соня.jpg",
+      "url": "/media/Sonya_76a5a68930.jpg"
+    },
+    {
+      "id": 78,
+      "name": "пешкова1.jpeg",
+      "url": "/media/peshkova1_b2de8337e9.jpeg"
+    },
+    {
+      "id": 79,
+      "name": "Сергеева.jpg",
+      "url": "/media/Sergeeva_3ce227ff6e.jpg"
+    }
+  ],
+  "updatedAt": "2025-10-16T17:32:59.275Z"
+}

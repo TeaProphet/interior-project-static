@@ -1,0 +1,80 @@
+{
+  "id": "kpwe6gtevo4b1kl5ezl2ywtb",
+  "documentId": "kpwe6gtevo4b1kl5ezl2ywtb",
+  "title": "Мебель для гостиной",
+  "description": "Test",
+  "order": 2,
+  "photos": [
+    {
+      "id": 19,
+      "name": "воронеж1.jpg",
+      "url": "/media/voronezh1_6c9d54f19a.jpg"
+    },
+    {
+      "id": 20,
+      "name": "встроенная кровать.jpg",
+      "url": "/media/vstroennaya_krovat_727b8a1dcf.jpg"
+    },
+    {
+      "id": 21,
+      "name": "встроенная кровать1.jpg",
+      "url": "/media/vstroennaya_krovat1_7dda7f1ea3.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Пятигорская2.jpg",
+      "url": "/media/Pyatigorskaya2_01dd707435.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Сизых.jpg",
+      "url": "/media/Sizyh_7044dd490a.jpg"
+    },
+    {
+      "id": 24,
+      "name": "шум.jpg",
+      "url": "/media/shum_b6a25d15c3.jpg"
+    },
+    {
+      "id": 25,
+      "name": "1726133053174.jpg",
+      "url": "/media/1726133053174_12896602b3.jpg"
+    },
+    {
+      "id": 26,
+      "name": "белла.jpg",
+      "url": "/media/bella_390a853313.jpg"
+    },
+    {
+      "id": 27,
+      "name": "WhatsApp Image 2025-07-10 at 11.10.44.jpeg",
+      "url": "/media/Whats_App_Image_2025_07_10_at_11_10_44_f2633d8056.jpeg"
+    },
+    {
+      "id": 28,
+      "name": "ветохина ольга.jpg",
+      "url": "/media/vetohina_olga_d99c48bef4.jpg"
+    },
+    {
+      "id": 29,
+      "name": "ветохина ольга2.jpg",
+      "url": "/media/vetohina_olga2_a91c843f29.jpg"
+    },
+    {
+      "id": 30,
+      "name": "ветохина ольга1.jpg",
+      "url": "/media/vetohina_olga1_4d4152cc61.jpg"
+    },
+    {
+      "id": 31,
+      "name": "виктория.jpeg",
+      "url": "/media/viktoriya_b74d60e212.jpeg"
+    },
+    {
+      "id": 32,
+      "name": "воронеж.jpg",
+      "url": "/media/voronezh_1267f17da4.jpg"
+    }
+  ],
+  "updatedAt": "2025-10-16T16:58:04.173Z"
+}

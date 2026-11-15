@@ -1,0 +1,25 @@
+{
+  "id": "ewkjo5hhk2ebtmcbpwu3f1mt",
+  "documentId": "ewkjo5hhk2ebtmcbpwu3f1mt",
+  "title": "Мебель для гардеробной",
+  "description": "",
+  "order": 1,
+  "photos": [
+    {
+      "id": 135,
+      "name": "Ветохина.jpeg",
+      "url": "/media/Vetohina_0f553fc777.jpeg"
+    },
+    {
+      "id": 134,
+      "name": "москва.jpg",
+      "url": "/media/moskva_31ce0b6a78.jpg"
+    },
+    {
+      "id": 133,
+      "name": "Массалитинова.jpg",
+      "url": "/media/Massalitinova_798431d222.jpg"
+    }
+  ],
+  "updatedAt": "2025-10-16T16:57:59.530Z"
+}

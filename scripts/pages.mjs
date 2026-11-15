@@ -1,0 +1,7 @@
+import fs from 'node:fs/promises';import sharp from 'sharp';
+const files=await fs.readdir('content/furniture');const categories=await Promise.all(files.map(async f=>JSON.parse(await fs.readFile('content/furniture/'+f,'utf8'))));const seen=new Set();
+for(const c of categories){if(!/^[a-z0-9-]+$/.test(c.id)||c.documentId!==c.id||!c.title.trim()||!Number.isFinite(c.order)||!Array.isArray(c.photos))throw Error('Invalid category '+c.id);
+for(const p of c.photos){if(!/^\/media\/[a-zA-Z0-9_.-]+$/.test(p.url))throw Error('Unsafe media path');if(seen.has(p.url))continue;seen.add(p.url);await fs.mkdir('dist/thumbs',{recursive:true});await sharp('public'+p.url).rotate().resize({width:640,withoutEnlargement:true}).webp({quality:80}).toFile('dist/thumbs/'+p.url.split('/').pop()+'.webp');}}
+const html=await fs.readFile('dist/index.html');for(const route of ['about','contacts','privacy-policy','admin',...categories.map(c=>'furniture/'+c.id)]){await fs.mkdir('dist/'+route,{recursive:true});await fs.writeFile('dist/'+route+'/index.html',html);}await fs.writeFile('dist/404.html',html);await fs.writeFile('dist/.nojekyll','');console.log('Validated',categories.length,'categories,',seen.size,'images');
+const routes=['','about','contacts',...categories.map(c=>'furniture/'+c.id)];
+await fs.writeFile('dist/sitemap.xml','<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+routes.map(r=>'<url><loc>https://teaprophet.github.io/interior-project-static/'+r+'</loc></url>').join('')+'</urlset>');

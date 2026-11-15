@@ -1,0 +1,50 @@
+{
+  "id": "zb5qzxbdxv09zbmheh3gtyfv",
+  "documentId": "zb5qzxbdxv09zbmheh3gtyfv",
+  "title": "Мебель для спальни",
+  "description": "Test",
+  "order": 0,
+  "photos": [
+    {
+      "id": 114,
+      "name": "Карина.jpg",
+      "url": "/media/Karina_58eeba54fa.jpg"
+    },
+    {
+      "id": 119,
+      "name": "туалетный стол.jpg",
+      "url": "/media/tualetnyj_stol_099aad60ca.jpg"
+    },
+    {
+      "id": 118,
+      "name": "1726132677303.jpg",
+      "url": "/media/1726132677303_c6388205d6.jpg"
+    },
+    {
+      "id": 117,
+      "name": "Лесково.jpg",
+      "url": "/media/Leskovo_936a9c8830.jpg"
+    },
+    {
+      "id": 116,
+      "name": "Сенчугова.jpg",
+      "url": "/media/Senchugova_9de113dacf.jpg"
+    },
+    {
+      "id": 115,
+      "name": "Сенчугова1.jpg",
+      "url": "/media/Senchugova1_852c42bedc.jpg"
+    },
+    {
+      "id": 113,
+      "name": "WhatsApp Image 2025-04-07 at 10.15.23 (2).jpg",
+      "url": "/media/Whats_App_Image_2025_04_07_at_10_15_23_2_6ba22b566f.jpg"
+    },
+    {
+      "id": 112,
+      "name": "круподеров.jpg",
+      "url": "/media/krupoderov_e6640eb491.jpg"
+    }
+  ],
+  "updatedAt": "2025-10-16T17:51:47.110Z"
+}

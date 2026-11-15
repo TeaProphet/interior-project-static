@@ -1,0 +1,35 @@
+{
+  "id": "lwsmjyxzd5rdm8f8fx00so5g",
+  "documentId": "lwsmjyxzd5rdm8f8fx00so5g",
+  "title": "Туалетные столы",
+  "description": "",
+  "order": 0,
+  "photos": [
+    {
+      "id": 124,
+      "name": "Сизых.jpg",
+      "url": "/media/Sizyh_a42b208743.jpg"
+    },
+    {
+      "id": 123,
+      "name": "1726133053214.jpg",
+      "url": "/media/1726133053214_8edb9a64e0.jpg"
+    },
+    {
+      "id": 122,
+      "name": "1726133053278.jpg",
+      "url": "/media/1726133053278_9ad6899822.jpg"
+    },
+    {
+      "id": 121,
+      "name": "1726133053269.jpg",
+      "url": "/media/1726133053269_eea0d68322.jpg"
+    },
+    {
+      "id": 120,
+      "name": "1726133053217.jpg",
+      "url": "/media/1726133053217_7e6ba68f4c.jpg"
+    }
+  ],
+  "updatedAt": "2025-10-14T10:21:05.576Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "z7p28adpyobwqdu2ohadvqs0",
+  "documentId": "z7p28adpyobwqdu2ohadvqs0",
+  "title": "Мягкая мебель",
+  "description": "",
+  "order": 0,
+  "photos": [
+    {
+      "id": 157,
+      "name": "акватория1.jpg",
+      "url": "/media/akvatoriya1_ccc780f476.jpg"
+    },
+    {
+      "id": 156,
+      "name": "акватория.jpg",
+      "url": "/media/akvatoriya_6efae9494a.jpg"
+    },
+    {
+      "id": 155,
+      "name": "кровать в Резиденцию.jpg",
+      "url": "/media/krovat_v_Rezidencziyu_9a15bf0115.jpg"
+    },
+    {
+      "id": 154,
+      "name": "резиденция.jpg",
+      "url": "/media/rezidencziya_9cd5cf079e.jpg"
+    }
+  ],
+  "updatedAt": "2025-10-14T10:19:02.225Z"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "wrgeteeelfi2ioq9w1elyuw4",
+  "documentId": "wrgeteeelfi2ioq9w1elyuw4",
+  "title": "Мебель для детской",
+  "description": "",
+  "order": 0,
+  "photos": [
+    {
+      "id": 148,
+      "name": "резиденция.jpeg",
+      "url": "/media/rezidencziya_26b2c5c742.jpeg"
+    },
+    {
+      "id": 147,
+      "name": "WhatsApp Image 2025-07-10 at 11.11.14.jpg",
+      "url": "/media/Whats_App_Image_2025_07_10_at_11_11_14_14e6ccbf93.jpg"
+    },
+    {
+      "id": 146,
+      "name": "WhatsApp Image 2025-07-10 at 11.11.30.jpg",
+      "url": "/media/Whats_App_Image_2025_07_10_at_11_11_30_e83bdd0b44.jpg"
+    },
+    {
+      "id": 145,
+      "name": "Пятигорская.jpg",
+      "url": "/media/Pyatigorskaya_6706d189a8.jpg"
+    },
+    {
+      "id": 144,
+      "name": "Акватория.jpg",
+      "url": "/media/Akvatoriya_ec3eb51262.jpg"
+    },
+    {
+      "id": 143,
+      "name": "1726133053221.jpg",
+      "url": "/media/1726133053221_20e616d38a.jpg"
+    },
+    {
+      "id": 142,
+      "name": "1726133053209.jpg",
+      "url": "/media/1726133053209_2c92a5e8cd.jpg"
+    },
+    {
+      "id": 141,
+      "name": "яшин таунхаус.jpg",
+      "url": "/media/yashin_taunhaus_91c902d84a.jpg"
+    },
+    {
+      "id": 140,
+      "name": "Сизых.jpg",
+      "url": "/media/Sizyh_846714957e.jpg"
+    },
+    {
+      "id": 139,
+      "name": "1726132677237.jpg",
+      "url": "/media/1726132677237_33c94b0a39.jpg"
+    }
+  ],
+  "updatedAt": "2025-10-14T10:23:22.738Z"
+}
