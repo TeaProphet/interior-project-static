@@ -6,16 +6,6 @@
   "order": 0,
   "photos": [
     {
-      "id": 157,
-      "name": "акватория1.jpg",
-      "url": "/media/akvatoriya1_ccc780f476.jpg"
-    },
-    {
-      "id": 156,
-      "name": "акватория.jpg",
-      "url": "/media/akvatoriya_6efae9494a.jpg"
-    },
-    {
       "id": 155,
       "name": "кровать в Резиденцию.jpg",
       "url": "/media/krovat_v_Rezidencziyu_9a15bf0115.jpg"
@@ -24,7 +14,27 @@
       "id": 154,
       "name": "резиденция.jpg",
       "url": "/media/rezidencziya_9cd5cf079e.jpg"
+    },
+    {
+      "id": 156,
+      "name": "акватория.jpg",
+      "url": "/media/akvatoriya_6efae9494a.jpg"
+    },
+    {
+      "id": 157,
+      "name": "акватория1.jpg",
+      "url": "/media/akvatoriya1_ccc780f476.jpg"
+    },
+    {
+      "id": 1794817114160,
+      "name": "DSC_8977-HDR.jpg",
+      "url": "/media/f761c725-66c7-4026-8cf5-6460b72d01d7.jpg"
+    },
+    {
+      "id": 1794817130541,
+      "name": "1760689638889.jpg",
+      "url": "/media/ef48fc1a-5927-4dcc-9d28-1b5bc22b7d82.jpg"
     }
   ],
-  "updatedAt": "2025-10-14T10:19:02.225Z"
+  "updatedAt": "2026-11-16T08:19:45.126Z"
 }
