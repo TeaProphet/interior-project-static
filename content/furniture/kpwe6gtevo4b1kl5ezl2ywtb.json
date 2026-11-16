@@ -6,19 +6,19 @@
   "order": 2,
   "photos": [
     {
-      "id": 19,
-      "name": "воронеж1.jpg",
-      "url": "/media/voronezh1_6c9d54f19a.jpg"
+      "id": 1794817320608,
+      "name": "DSC_9079_HDR.jpg",
+      "url": "/media/bedde583-0565-4a52-b58f-c709310e2333.jpg"
     },
     {
-      "id": 20,
-      "name": "встроенная кровать.jpg",
-      "url": "/media/vstroennaya_krovat_727b8a1dcf.jpg"
+      "id": 1794817332840,
+      "name": "DSC_9093_HDR.jpg",
+      "url": "/media/3dc0dd35-0c22-48fc-9eb9-9a6df49b727f.jpg"
     },
     {
-      "id": 21,
-      "name": "встроенная кровать1.jpg",
-      "url": "/media/vstroennaya_krovat1_7dda7f1ea3.jpg"
+      "id": 25,
+      "name": "1726133053174.jpg",
+      "url": "/media/1726133053174_12896602b3.jpg"
     },
     {
       "id": 22,
@@ -34,11 +34,6 @@
       "id": 24,
       "name": "шум.jpg",
       "url": "/media/shum_b6a25d15c3.jpg"
-    },
-    {
-      "id": 25,
-      "name": "1726133053174.jpg",
-      "url": "/media/1726133053174_12896602b3.jpg"
     },
     {
       "id": 26,
@@ -74,7 +69,22 @@
       "id": 32,
       "name": "воронеж.jpg",
       "url": "/media/voronezh_1267f17da4.jpg"
+    },
+    {
+      "id": 19,
+      "name": "воронеж1.jpg",
+      "url": "/media/voronezh1_6c9d54f19a.jpg"
+    },
+    {
+      "id": 20,
+      "name": "встроенная кровать.jpg",
+      "url": "/media/vstroennaya_krovat_727b8a1dcf.jpg"
+    },
+    {
+      "id": 21,
+      "name": "встроенная кровать1.jpg",
+      "url": "/media/vstroennaya_krovat1_7dda7f1ea3.jpg"
     }
   ],
-  "updatedAt": "2025-10-16T16:58:04.173Z"
+  "updatedAt": "2026-11-16T08:24:22.608Z"
 }

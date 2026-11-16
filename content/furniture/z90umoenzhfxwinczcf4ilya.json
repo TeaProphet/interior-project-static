@@ -3,7 +3,7 @@
   "documentId": "z90umoenzhfxwinczcf4ilya",
   "title": "Мебель для кухни",
   "description": "",
-  "order": 0,
+  "order": -1,
   "photos": [
     {
       "id": 1794816522612,
@@ -246,5 +246,5 @@
       "url": "/media/ea9d6097-0bbc-42ad-a913-0600e8733b98.jpg"
     }
   ],
-  "updatedAt": "2026-11-16T08:14:37.618Z"
+  "updatedAt": "2026-11-16T08:20:19.637Z"
 }
