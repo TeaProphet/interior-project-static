@@ -16,6 +16,11 @@
       "url": "/media/3dafefa0-3b64-4d42-8394-3c07fed77ef8.jpg"
     },
     {
+      "id": 1794837931038,
+      "name": "кухня.jpg",
+      "url": "/media/0b56d6c7-abe2-41e9-a409-4269b0b5e2a2.jpg"
+    },
+    {
       "id": 79,
       "name": "Сергеева.jpg",
       "url": "/media/Sergeeva_3ce227ff6e.jpg"
@@ -256,5 +261,5 @@
       "url": "/media/p_92f2a6fcee.jpeg"
     }
   ],
-  "updatedAt": "2026-11-16T09:08:49.481Z"
+  "updatedAt": "2026-11-16T14:06:24.905Z"
 }

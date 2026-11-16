@@ -11,6 +11,11 @@
       "url": "/media/9cc63bad-3e1d-403a-a193-df1f600c806a.jpg"
     },
     {
+      "id": 1794837872478,
+      "name": "прихожая.jpg",
+      "url": "/media/550a4d95-89a4-442b-9a09-28ae7e458c61.jpg"
+    },
+    {
       "id": 176,
       "name": "Федосова.jpg",
       "url": "/media/Fedosova_db1312c3bd.jpg"
@@ -46,11 +51,6 @@
       "url": "/media/Sizyh_5713d1eea8.jpg"
     },
     {
-      "id": 186,
-      "name": "виктория.jpeg",
-      "url": "/media/viktoriya_a2ff9d707e.jpeg"
-    },
-    {
       "id": 184,
       "name": "Еремкина.jpg",
       "url": "/media/Eremkina_81672c9993.jpg"
@@ -59,6 +59,11 @@
       "id": 183,
       "name": "WhatsApp Image 2025-07-10 at 11.16.53 (2).jpeg",
       "url": "/media/Whats_App_Image_2025_07_10_at_11_16_53_2_8e7c626c7e.jpeg"
+    },
+    {
+      "id": 186,
+      "name": "виктория.jpeg",
+      "url": "/media/viktoriya_a2ff9d707e.jpeg"
     },
     {
       "id": 182,
@@ -101,5 +106,5 @@
       "url": "/media/Kochetova_01dfef49a8.jpg"
     }
   ],
-  "updatedAt": "2026-11-16T09:54:46.617Z"
+  "updatedAt": "2026-11-16T14:05:02.265Z"
 }
