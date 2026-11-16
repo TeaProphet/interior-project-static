@@ -3,7 +3,7 @@
   "documentId": "z7p28adpyobwqdu2ohadvqs0",
   "title": "Мягкая мебель",
   "description": "",
-  "order": 3,
+  "order": 13,
   "photos": [
     {
       "id": 155,
@@ -34,7 +34,17 @@
       "id": 1794817130541,
       "name": "1760689638889.jpg",
       "url": "/media/ef48fc1a-5927-4dcc-9d28-1b5bc22b7d82.jpg"
+    },
+    {
+      "id": 1794819441432,
+      "name": "1760696838727.jpg",
+      "url": "/media/1cbc8938-c8fb-4dfc-ac26-b82fd1bcff45.jpg"
+    },
+    {
+      "id": 1794819446820,
+      "name": "1760696838719.jpg",
+      "url": "/media/223d10cb-06a7-4e34-82c7-56017d368765.jpg"
     }
   ],
-  "updatedAt": "2026-11-16T08:20:11.227Z"
+  "updatedAt": "2026-11-16T08:57:26.820Z"
 }
