@@ -6,6 +6,16 @@
   "order": 0,
   "photos": [
     {
+      "id": 1794815997774,
+      "name": "DSC_8908-HDR.jpg",
+      "url": "/media/c1c1452c-3b06-4272-8ee7-e5b87e699620.jpg"
+    },
+    {
+      "id": 1794816010730,
+      "name": "DSC_9220-HDR.jpg",
+      "url": "/media/b88febb7-7515-4d51-86d0-683f09258e4e.jpg"
+    },
+    {
       "id": 89,
       "name": "WhatsApp Image 2025-07-09 at 18.34.07 (1).jpeg",
       "url": "/media/Whats_App_Image_2025_07_09_at_18_34_07_1_4f59a89939.jpeg"
@@ -161,5 +171,5 @@
       "url": "/media/1726132677272_0118cf65f7.jpg"
     }
   ],
-  "updatedAt": "2026-11-16T07:53:22.067Z"
+  "updatedAt": "2026-11-16T08:01:17.489Z"
 }

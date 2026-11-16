@@ -6,20 +6,35 @@
   "order": 1,
   "photos": [
     {
-      "id": 135,
-      "name": "Ветохина.jpeg",
-      "url": "/media/Vetohina_0f553fc777.jpeg"
-    },
-    {
       "id": 134,
       "name": "москва.jpg",
       "url": "/media/moskva_31ce0b6a78.jpg"
     },
     {
+      "id": 135,
+      "name": "Ветохина.jpeg",
+      "url": "/media/Vetohina_0f553fc777.jpeg"
+    },
+    {
       "id": 133,
       "name": "Массалитинова.jpg",
       "url": "/media/Massalitinova_798431d222.jpg"
+    },
+    {
+      "id": 1794816194902,
+      "name": "1773840824469.jpg",
+      "url": "/media/1b0f1f0f-2cf2-4ecb-8ef6-87ec18fd86da.jpg"
+    },
+    {
+      "id": 1794816205678,
+      "name": "1773840824457.jpg",
+      "url": "/media/ef1abf43-aea1-44d6-9f18-8492126bc415.jpg"
+    },
+    {
+      "id": 1794816213932,
+      "name": "1773840824442.jpg",
+      "url": "/media/1dc8ea4a-d564-4a0c-99e5-189f5c576901.jpg"
     }
   ],
-  "updatedAt": "2025-10-16T16:57:59.530Z"
+  "updatedAt": "2026-11-16T08:03:44.487Z"
 }

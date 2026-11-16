@@ -6,19 +6,19 @@
   "order": 0,
   "photos": [
     {
-      "id": 114,
-      "name": "Карина.jpg",
-      "url": "/media/Karina_58eeba54fa.jpg"
-    },
-    {
-      "id": 119,
-      "name": "туалетный стол.jpg",
-      "url": "/media/tualetnyj_stol_099aad60ca.jpg"
+      "id": 1794816112204,
+      "name": "DSC_9043-HDR.jpg",
+      "url": "/media/404608e1-0db6-4525-adad-704ed35804b5.jpg"
     },
     {
       "id": 118,
       "name": "1726132677303.jpg",
       "url": "/media/1726132677303_c6388205d6.jpg"
+    },
+    {
+      "id": 119,
+      "name": "туалетный стол.jpg",
+      "url": "/media/tualetnyj_stol_099aad60ca.jpg"
     },
     {
       "id": 117,
@@ -44,7 +44,12 @@
       "id": 112,
       "name": "круподеров.jpg",
       "url": "/media/krupoderov_e6640eb491.jpg"
+    },
+    {
+      "id": 114,
+      "name": "Карина.jpg",
+      "url": "/media/Karina_58eeba54fa.jpg"
     }
   ],
-  "updatedAt": "2025-10-16T17:51:47.110Z"
+  "updatedAt": "2026-11-16T08:02:44.357Z"
 }
