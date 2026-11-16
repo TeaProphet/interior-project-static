@@ -6,6 +6,61 @@
   "order": 0,
   "photos": [
     {
+      "id": 141,
+      "name": "яшин таунхаус.jpg",
+      "url": "/media/yashin_taunhaus_91c902d84a.jpg"
+    },
+    {
+      "id": 1794815742801,
+      "name": "DSC_8936-HDR.jpg",
+      "url": "/media/f4102685-6625-4c87-b5a9-6136a0af9ca2.jpg"
+    },
+    {
+      "id": 1794815786619,
+      "name": "DSC_8957-HDR.jpg",
+      "url": "/media/0423dbc9-5210-4952-a97c-7957da95f6ec.jpg"
+    },
+    {
+      "id": 1794815782508,
+      "name": "DSC_8952-HDR.jpg",
+      "url": "/media/ba6e7e82-5901-4e86-aa9c-984a3b0e5338.jpg"
+    },
+    {
+      "id": 1794815766917,
+      "name": "DSC_8941-HDR.jpg",
+      "url": "/media/88ca92b2-af69-431f-bdd9-3efe3ae52ffe.jpg"
+    },
+    {
+      "id": 1794815776658,
+      "name": "DSC_8945-HDR.jpg",
+      "url": "/media/eadd9469-09c4-491d-9bfb-65907c20c144.jpg"
+    },
+    {
+      "id": 1794815802154,
+      "name": "DSC_9014-HDR.jpg",
+      "url": "/media/64460313-1d1e-4424-afa9-79517bb8c84b.jpg"
+    },
+    {
+      "id": 1794815793332,
+      "name": "DSC_8971-HDR.jpg",
+      "url": "/media/6842ef74-3fab-4e7a-b35f-4e9cb62d4050.jpg"
+    },
+    {
+      "id": 139,
+      "name": "1726132677237.jpg",
+      "url": "/media/1726132677237_33c94b0a39.jpg"
+    },
+    {
+      "id": 143,
+      "name": "1726133053221.jpg",
+      "url": "/media/1726133053221_20e616d38a.jpg"
+    },
+    {
+      "id": 142,
+      "name": "1726133053209.jpg",
+      "url": "/media/1726133053209_2c92a5e8cd.jpg"
+    },
+    {
       "id": 148,
       "name": "резиденция.jpeg",
       "url": "/media/rezidencziya_26b2c5c742.jpeg"
@@ -31,30 +86,10 @@
       "url": "/media/Akvatoriya_ec3eb51262.jpg"
     },
     {
-      "id": 143,
-      "name": "1726133053221.jpg",
-      "url": "/media/1726133053221_20e616d38a.jpg"
-    },
-    {
-      "id": 142,
-      "name": "1726133053209.jpg",
-      "url": "/media/1726133053209_2c92a5e8cd.jpg"
-    },
-    {
-      "id": 141,
-      "name": "яшин таунхаус.jpg",
-      "url": "/media/yashin_taunhaus_91c902d84a.jpg"
-    },
-    {
       "id": 140,
       "name": "Сизых.jpg",
       "url": "/media/Sizyh_846714957e.jpg"
-    },
-    {
-      "id": 139,
-      "name": "1726132677237.jpg",
-      "url": "/media/1726132677237_33c94b0a39.jpg"
     }
   ],
-  "updatedAt": "2025-10-14T10:23:22.738Z"
+  "updatedAt": "2026-11-16T07:58:31.242Z"
 }
