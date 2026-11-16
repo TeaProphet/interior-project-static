@@ -1,0 +1,25 @@
+{
+  "id": "ff02012d-f631-4989-8bd1-89accd856b1b",
+  "documentId": "ff02012d-f631-4989-8bd1-89accd856b1b",
+  "title": "Мебель в постирочную",
+  "description": "",
+  "order": 12,
+  "photos": [
+    {
+      "id": 1794820714597,
+      "name": "WhatsApp Image 2025-07-14 at 17.58.56.jpeg",
+      "url": "/media/48446ff2-7ac8-490c-b44e-f3603870a90c.jpg"
+    },
+    {
+      "id": 1794820710062,
+      "name": "WhatsApp Image 2025-07-14 at 17.58.56 (1).jpeg",
+      "url": "/media/dce0bce3-ad5c-4c12-b3c6-394753a9b9b9.jpg"
+    },
+    {
+      "id": 1794820686907,
+      "name": "WhatsApp Image 2024-07-08 at 10.45.54.jpeg",
+      "url": "/media/43b3c428-3c88-4fe8-b8ec-9708267d4557.jpg"
+    }
+  ],
+  "updatedAt": "2026-11-16T09:18:44.213Z"
+}
