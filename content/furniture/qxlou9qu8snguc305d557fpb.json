@@ -6,6 +6,21 @@
   "order": 0,
   "photos": [
     {
+      "id": 89,
+      "name": "WhatsApp Image 2025-07-09 at 18.34.07 (1).jpeg",
+      "url": "/media/Whats_App_Image_2025_07_09_at_18_34_07_1_4f59a89939.jpeg"
+    },
+    {
+      "id": 83,
+      "name": "111.jpeg",
+      "url": "/media/111_9595899364.jpeg"
+    },
+    {
+      "id": 91,
+      "name": "WhatsApp Image 2025-07-09 at 18.34.07.jpeg",
+      "url": "/media/Whats_App_Image_2025_07_09_at_18_34_07_2bc858970b.jpeg"
+    },
+    {
       "id": 111,
       "name": "Спортивная набережная.jpg",
       "url": "/media/Sportivnaya_naberezhnaya_7a4ef9f802.jpg"
@@ -36,6 +51,11 @@
       "url": "/media/sizyh_ca1bc9f2e1.jpeg"
     },
     {
+      "id": 99,
+      "name": "пятигорская.jpg",
+      "url": "/media/pyatigorskaya_5517f83623.jpg"
+    },
+    {
       "id": 105,
       "name": "пятигорская2.jpg",
       "url": "/media/pyatigorskaya2_d2d4233244.jpg"
@@ -64,11 +84,6 @@
       "id": 100,
       "name": "Жанна.jpg",
       "url": "/media/Zhanna_228af9e3f3.jpg"
-    },
-    {
-      "id": 99,
-      "name": "пятигорская.jpg",
-      "url": "/media/pyatigorskaya_5517f83623.jpg"
     },
     {
       "id": 98,
@@ -106,9 +121,9 @@
       "url": "/media/Whats_App_Image_2025_07_09_at_18_42_59_d7b892d283.jpeg"
     },
     {
-      "id": 91,
-      "name": "WhatsApp Image 2025-07-09 at 18.34.07.jpeg",
-      "url": "/media/Whats_App_Image_2025_07_09_at_18_34_07_2bc858970b.jpeg"
+      "id": 87,
+      "name": "WhatsApp Image 2025-07-09 at 18.28.27.jpeg",
+      "url": "/media/Whats_App_Image_2025_07_09_at_18_28_27_12ffde29e5.jpeg"
     },
     {
       "id": 90,
@@ -116,19 +131,9 @@
       "url": "/media/Whats_App_Image_2025_07_09_at_18_28_27_1_c6aeac3a51.jpeg"
     },
     {
-      "id": 89,
-      "name": "WhatsApp Image 2025-07-09 at 18.34.07 (1).jpeg",
-      "url": "/media/Whats_App_Image_2025_07_09_at_18_34_07_1_4f59a89939.jpeg"
-    },
-    {
       "id": 88,
       "name": "IMG_20190913_155312.jpg",
       "url": "/media/IMG_20190913_155312_d6ad7179e2.jpg"
-    },
-    {
-      "id": 87,
-      "name": "WhatsApp Image 2025-07-09 at 18.28.27.jpeg",
-      "url": "/media/Whats_App_Image_2025_07_09_at_18_28_27_12ffde29e5.jpeg"
     },
     {
       "id": 86,
@@ -146,19 +151,9 @@
       "url": "/media/1726132677281_378e95fc25.jpg"
     },
     {
-      "id": 83,
-      "name": "111.jpeg",
-      "url": "/media/111_9595899364.jpeg"
-    },
-    {
       "id": 82,
       "name": "1726132677248.jpg",
       "url": "/media/1726132677248_b22ad5b0dd.jpg"
-    },
-    {
-      "id": 81,
-      "name": "1726132677260.jpg",
-      "url": "/media/1726132677260_ca7abafa6f.jpg"
     },
     {
       "id": 80,
@@ -166,5 +161,5 @@
       "url": "/media/1726132677272_0118cf65f7.jpg"
     }
   ],
-  "updatedAt": "2025-10-14T10:17:19.147Z"
+  "updatedAt": "2026-11-16T07:53:22.067Z"
 }
