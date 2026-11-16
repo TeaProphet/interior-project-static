@@ -6,6 +6,11 @@
   "order": 0,
   "photos": [
     {
+      "id": 129,
+      "name": "ватневская.jpeg",
+      "url": "/media/vatnevskaya_754212ac2e.jpeg"
+    },
+    {
       "id": 132,
       "name": "Ветохина Ольга3.jpg",
       "url": "/media/Vetohina_Olga3_5a0eff4bc4.jpg"
@@ -19,11 +24,6 @@
       "id": 130,
       "name": "Сизых.jpg",
       "url": "/media/Sizyh_878c825f5c.jpg"
-    },
-    {
-      "id": 129,
-      "name": "ватневская.jpeg",
-      "url": "/media/vatnevskaya_754212ac2e.jpeg"
     },
     {
       "id": 128,
@@ -46,5 +46,5 @@
       "url": "/media/Vetohina_Olga2_af68f3136e.jpg"
     }
   ],
-  "updatedAt": "2025-10-15T18:15:42.724Z"
+  "updatedAt": "2026-11-16T07:48:39.319Z"
 }
