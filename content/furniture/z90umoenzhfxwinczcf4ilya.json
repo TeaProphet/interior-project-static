@@ -6,16 +6,6 @@
   "order": -1,
   "photos": [
     {
-      "id": 1794816522612,
-      "name": "DSC_9125_HDR.jpg",
-      "url": "/media/0b6f4b2e-0149-4095-ac95-297959c8f167.jpg"
-    },
-    {
-      "id": 1794816538346,
-      "name": "DSC_9138_HDR.jpg",
-      "url": "/media/3dafefa0-3b64-4d42-8394-3c07fed77ef8.jpg"
-    },
-    {
       "id": 1794837931038,
       "name": "кухня.jpg",
       "url": "/media/0b56d6c7-abe2-41e9-a409-4269b0b5e2a2.jpg"
@@ -29,6 +19,16 @@
       "id": 39,
       "name": "1726133053197.jpg",
       "url": "/media/1726133053197_e2620c521c.jpg"
+    },
+    {
+      "id": 1794816522612,
+      "name": "DSC_9125_HDR.jpg",
+      "url": "/media/0b6f4b2e-0149-4095-ac95-297959c8f167.jpg"
+    },
+    {
+      "id": 1794816538346,
+      "name": "DSC_9138_HDR.jpg",
+      "url": "/media/3dafefa0-3b64-4d42-8394-3c07fed77ef8.jpg"
     },
     {
       "id": 73,
@@ -96,11 +96,6 @@
       "url": "/media/Image_6_38ace510d2.jpg"
     },
     {
-      "id": 45,
-      "name": "WhatsApp Image 2025-07-09 at 18.28.27 (2).jpeg",
-      "url": "/media/Whats_App_Image_2025_07_09_at_18_28_27_2_e8571298cf.jpeg"
-    },
-    {
       "id": 69,
       "name": "Лесково.jpg",
       "url": "/media/Leskovo_119911dbd2.jpg"
@@ -109,11 +104,6 @@
       "id": 42,
       "name": "WhatsApp Image 2025-07-09 at 18.28.27 (1).jpeg",
       "url": "/media/Whats_App_Image_2025_07_09_at_18_28_27_1_f59f06251a.jpeg"
-    },
-    {
-      "id": 46,
-      "name": "WhatsApp Image 2025-07-09 at 18.34.07.jpeg",
-      "url": "/media/Whats_App_Image_2025_07_09_at_18_34_07_1bec49427d.jpeg"
     },
     {
       "id": 47,
@@ -139,6 +129,11 @@
       "id": 71,
       "name": "массалитинова.jpeg",
       "url": "/media/massalitinova_70d1aafe3c.jpeg"
+    },
+    {
+      "id": 76,
+      "name": "риальто.jpg",
+      "url": "/media/rialto_a96b2ccf35.jpg"
     },
     {
       "id": 50,
@@ -184,16 +179,6 @@
       "id": 60,
       "name": "кирющева.jpeg",
       "url": "/media/kiryushheva_98371b4648.jpeg"
-    },
-    {
-      "id": 65,
-      "name": "кирющева1.jpeg",
-      "url": "/media/kiryushheva1_a0f51317f5.jpeg"
-    },
-    {
-      "id": 62,
-      "name": "дом философа2.jpeg",
-      "url": "/media/dom_filosofa2_8c83632cc5.jpeg"
     },
     {
       "id": 61,
@@ -251,15 +236,10 @@
       "url": "/media/Sonya_76a5a68930.jpg"
     },
     {
-      "id": 76,
-      "name": "риальто.jpg",
-      "url": "/media/rialto_a96b2ccf35.jpg"
-    },
-    {
       "id": 72,
       "name": "п.jpeg",
       "url": "/media/p_92f2a6fcee.jpeg"
     }
   ],
-  "updatedAt": "2026-11-16T14:06:24.905Z"
+  "updatedAt": "2026-11-16T14:50:01.439Z"
 }
