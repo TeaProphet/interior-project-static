@@ -2,7 +2,7 @@
   "id": "zb5qzxbdxv09zbmheh3gtyfv",
   "documentId": "zb5qzxbdxv09zbmheh3gtyfv",
   "title": "Мебель для спальни",
-  "description": "Test",
+  "description": "",
   "order": 0,
   "photos": [
     {
@@ -16,9 +16,9 @@
       "url": "/media/1726132677303_c6388205d6.jpg"
     },
     {
-      "id": 119,
-      "name": "туалетный стол.jpg",
-      "url": "/media/tualetnyj_stol_099aad60ca.jpg"
+      "id": 1794819166492,
+      "name": "1772197053894.png",
+      "url": "/media/2af4e86e-4c58-42ce-ab51-2388bd3b867d.png"
     },
     {
       "id": 117,
@@ -51,5 +51,5 @@
       "url": "/media/Karina_58eeba54fa.jpg"
     }
   ],
-  "updatedAt": "2026-11-16T08:02:44.357Z"
+  "updatedAt": "2026-11-16T08:53:50.095Z"
 }
