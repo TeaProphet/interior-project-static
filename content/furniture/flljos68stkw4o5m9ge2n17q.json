@@ -6,6 +6,11 @@
   "order": 0,
   "photos": [
     {
+      "id": 176,
+      "name": "Федосова.jpg",
+      "url": "/media/Fedosova_db1312c3bd.jpg"
+    },
+    {
       "id": 187,
       "name": "полянский.jpeg",
       "url": "/media/polyanskij_ca798aff1b.jpeg"
@@ -61,11 +66,6 @@
       "url": "/media/stukalyuk_40e3af6e04.jpg"
     },
     {
-      "id": 176,
-      "name": "Федосова.jpg",
-      "url": "/media/Fedosova_db1312c3bd.jpg"
-    },
-    {
       "id": 175,
       "name": "юхман.jpg",
       "url": "/media/yuhman_4b7334288d.jpg"
@@ -81,5 +81,5 @@
       "url": "/media/rezidencziya_7edaa725fe.jpg"
     }
   ],
-  "updatedAt": "2025-10-14T10:20:35.918Z"
+  "updatedAt": "2026-11-16T07:43:40.341Z"
 }
